@@ -16,19 +16,22 @@ This project demonstrates how to scrape data from the web using Power BI and cre
 - Data Visualization  
 
 ## Visualizations  
-![Dashboard Preview](./Visualizations/dashboard.png)  
 
-## How to Recreate  
-1. Open the `.pbix` file in Power BI Desktop.  
-2. Update the web data source as required.  
-3. Refresh the data and explore the dashboard.  
 
-## Screenshots  
-![Trend Analysis](./Visualizations/trend_analysis.png)  
-![KPI Dashboard](./Visualizations/kpi_dashboard.png)  
+Project Title: Data Sales Analysis of Music Industry
 
-## Contact  
-If you have questions or feedback, feel free to reach out!  
+Description:
+This project involves analyzing music sales data to uncover trends, patterns, and insights within the industry. Using Tableau, I created dynamic visualizations to represent key metrics such as sales performance, genre popularity, regional trends, and customer preferences. The project showcases the ability to process and visualize large datasets effectively, enabling data-driven decision-making.
+
+Key deliverables include:
+
+Interactive dashboards for genre-wise and region-wise sales trends.
+Visualization of time-based sales performance.
+Insights into top-performing artists and albums.
+
+## Visualizations
+
+
 
 
 
