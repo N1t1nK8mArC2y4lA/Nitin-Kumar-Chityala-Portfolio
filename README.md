@@ -17,7 +17,7 @@ This project demonstrates how to scrape data from the web using Power BI and cre
 
 ## Visualizations  
 
-<img width="1092" alt="Image" src="https://github.com/user-attachments/assets/927f3244-1908-49eb-8034-7bd45e41e4ca" />
+<img width="717" alt="Image" src="https://github.com/user-attachments/assets/64f7935e-7d73-4a02-9c4a-a9c1d45dca49" />
 
 
 
