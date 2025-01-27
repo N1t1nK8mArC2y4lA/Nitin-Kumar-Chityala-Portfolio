@@ -17,6 +17,9 @@ This project demonstrates how to scrape data from the web using Power BI and cre
 
 ## Visualizations  
 
+<img width="1092" alt="Image" src="https://github.com/user-attachments/assets/927f3244-1908-49eb-8034-7bd45e41e4ca" />
+
+
 
 Project Title: Data Sales Analysis of Music Industry
 
