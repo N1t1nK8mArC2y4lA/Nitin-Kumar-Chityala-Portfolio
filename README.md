@@ -34,9 +34,11 @@ Insights into top-performing artists and albums.
 
 ## Visualizations
 
-<img width="717" alt="Image" src="https://github.com/user-attachments/assets/d73efb66-8981-4b10-baba-88a26023a439" />
-<img width="715" alt="Image" src="https://github.com/user-attachments/assets/ea8c6541-3df3-40da-a7f2-193ac28ee6a5" />
 <img width="717" alt="Image" src="https://github.com/user-attachments/assets/180a2676-4901-42ce-b26d-fef52229fea6" />
+
+<img width="715" alt="Image" src="https://github.com/user-attachments/assets/ea8c6541-3df3-40da-a7f2-193ac28ee6a5" />
+
+<img width="717" alt="Image" src="https://github.com/user-attachments/assets/d73efb66-8981-4b10-baba-88a26023a439" />
 
 
 
